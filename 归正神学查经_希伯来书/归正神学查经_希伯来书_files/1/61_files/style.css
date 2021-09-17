@@ -1,0 +1,10 @@
+BODY{COLOR:#000000; FONT-FAMILY:"ËÎÌו"; FONT-SIZE:10.5pt; line-height:150%; SCROLLBAR-FACE-COLOR: #ffffff; 
+SCROLLBAR-HIGHLIGHT-COLOR: #E4EAFA; SCROLLBAR-SHADOW-COLOR: #E4EAFA; SCROLLBAR-3DLIGHT-COLOR: #FBFFFF; SCROLLBAR-ARROW-COLOR: #E4EAFA; SCROLLBAR-TRACK-COLOR: #FBFFFF; SCROLLBAR-DARKSHADOW-COLOR: #562877}
+TD{COLOR:#000000; FONT-FAMILY:"ËÎÌו"; FONT-SIZE:10.5pt; line-height:150%}
+A{text-decoration:none}
+A:link {COLOR:#000000}
+A:visited {COLOR:#000000}
+A:hover {COLOR:#CC6601}
+.word {COLOR:#464646; font-size:10.5pt; line-height:normal}
+.line_l {border-color:black black black #FFFFF0; border-style:blue; border-top-width:0px; border-right-width:0px; border-bottom-width:0px; border-left-width:1px}
+.line_r {border-color:black #FFFFF0 black black; border-top-width:0px; border-right-width:1px; border-bottom-width:0px; border-left-width:0px}
